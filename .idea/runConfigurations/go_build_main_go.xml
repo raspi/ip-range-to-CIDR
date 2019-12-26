@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+    <module name="ip-range-to-CIDR" />
+    <working_directory value="$PROJECT_DIR$/" />
+    <go_parameters value="-i" />
+    <parameters value="192.168.0.0 192.168.0.255" />
+    <kind value="FILE" />
+    <filePath value="$PROJECT_DIR$/main.go" />
+    <method v="2" />
+  </configuration>
+</component>

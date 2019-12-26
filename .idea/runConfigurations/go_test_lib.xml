@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go test lib" type="GoTestRunConfiguration" factoryName="Go Test" nameIsGenerated="true">
+    <module name="ip-range-to-CIDR" />
+    <working_directory value="$PROJECT_DIR$/" />
+    <go_parameters value="-i" />
+    <framework value="gotest" />
+    <kind value="DIRECTORY" />
+    <directory value="$PROJECT_DIR$/lib" />
+    <method v="2" />
+  </configuration>
+</component>
