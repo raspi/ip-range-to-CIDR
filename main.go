@@ -10,6 +10,7 @@ import (
 
 var VERSION = `0.0.0`
 var BUILD = `dev`
+var BUILDDATE = `0000-00-00T00:00:00+00:00`
 
 const AUTHOR = `Pekka Järvinen`
 
