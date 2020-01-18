@@ -1,5 +1,10 @@
 # ip-range-to-CIDR
 
+![GitHub All Releases](https://img.shields.io/github/downloads/raspi/ip-range-to-CIDR/total?style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/raspi/ip-range-to-CIDR?style=for-the-badge)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/raspi/ip-range-to-CIDR?style=for-the-badge)
+
+
 Convert IP address range to CIDR.
 
 ## Examples
