@@ -1,9 +1,9 @@
 package main
 
 import (
-	"./lib"
 	"flag"
 	"fmt"
+	"github.com/raspi/ip-range-to-CIDR/lib"
 	"net"
 	"os"
 )
